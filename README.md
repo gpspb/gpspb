@@ -22,6 +22,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=600&duration=7500&pause=1000&color=3776AB&center=true&vCenter=true&repeat=false&width=1000&lines=%E2%9C%8D+%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D1%82%D1%8C%D1%81%D1%8F+%D1%81%D0%BE+%D0%BC%D0%BD%D0%BE%D0%B9%3A+)](https://git.io/typing-svg)
 
-[<img src="https://img.shields.io/badge/VK-FFFFFF?style=for-the-badge&logo=vk&logoColor=0077FF"/>](https://vk.com/falku) [<img src="https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=26A5E4"/>](https://t.me/uklaf)
+[<img src="https://img.shields.io/badge/VK-FFFFFF?style=for-the-badge&logo=vk&logoColor=0077FF"/>](https://vk.com/falku) [<img src="https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=26A5E4"/>](https://t.me/datawizardy)
 
 <img src="https://img.shields.io/badge/gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335"/> - h0se3e@gmail.com 
