@@ -7,6 +7,8 @@
 ![Python](https://www.vectorlogo.zone/logos/python/python-ar21.svg)
 
 <img src="https://img.shields.io/badge/pandas-3776AB?style=for-the-badge&logo=pandas&logoColor=FFFF00"/> <img src="https://img.shields.io/badge/scipy-3776AB?style=for-the-badge&logo=scipy&logoColor=FFFF00"/> <img src="https://img.shields.io/badge/skimpy-3776AB?style=for-the-badge&logo=python&logoColor=FFFF00"/> <img src="https://img.shields.io/badge/numpy-3776AB?style=for-the-badge&logo=numpy&logoColor=FFFF00"/> <img src="https://img.shields.io/badge/math-3776AB?style=for-the-badge&logo=python&logoColor=FFFF00"/> <img src="https://img.shields.io/badge/plotly-3776AB?style=for-the-badge&logo=plotly&logoColor=FFFF00"/> <img src="https://img.shields.io/badge/matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=FFFF00"/> <img src="https://img.shields.io/badge/seaborn-3776AB?style=for-the-badge&logo=python&logoColor=FFFF00"/>
+<img src="https://img.shields.io/badge/json-3776AB?style=for-the-badge&logo=json&logoColor=FFFF00"/> <img src="https://img.shields.io/badge/folium-3776AB?style=for-the-badge&logo=folium&logoColor=FFFF00"/>
+<img src="https://img.shields.io/badge/missingno-3776AB?style=for-the-badge&logo=python&logoColor=FFFF00"/>
 
 -----
 
